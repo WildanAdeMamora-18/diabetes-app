@@ -39,13 +39,21 @@ Dataset yang digunakan adalah **Pima Indians Diabetes Dataset** yang terdiri dar
    ```
 
 2. **Install Dependensi secara manual : **
+
+  ```bash
    pip install flask
    pip install scikit-learn
    pip install numpy
 
+  ```
+
 3. **Jalankan Aplikasi : **
-   python app.py  
+
+   ```bash
+   python app.py
+
+  ```
+   
 
 4. **Buka di browser : **
-    http://localhost:5000
-    
+   http://localhost:5000
